@@ -1,2 +1,0 @@
-# gbook
-Created with CodeSandbox
